@@ -1,0 +1,17 @@
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\bin\Debug\net6.0-windows\ระบบคลังสินค้า.exe
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\bin\Debug\net6.0-windows\ระบบคลังสินค้า.deps.json
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\bin\Debug\net6.0-windows\ระบบคลังสินค้า.runtimeconfig.json
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\bin\Debug\net6.0-windows\ระบบคลังสินค้า.dll
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\bin\Debug\net6.0-windows\ระบบคลังสินค้า.pdb
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.csproj.AssemblyReference.cache
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.Form1.resources
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.csproj.GenerateResource.cache
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.AssemblyInfoInputs.cache
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.AssemblyInfo.cs
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.csproj.CoreCompileInputs.cache
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.dll
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\refint\ระบบคลังสินค้า.dll
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.pdb
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ระบบคลังสินค้า.genruntimeconfig.cache
+D:\Coding\ระบบคลังสินค้า\ระบบคลังสินค้า\ระบบคลังสินค้า\obj\Debug\net6.0-windows\ref\ระบบคลังสินค้า.dll

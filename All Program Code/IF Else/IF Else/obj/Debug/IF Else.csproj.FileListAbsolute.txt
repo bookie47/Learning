@@ -1,0 +1,8 @@
+D:\All Program Code\IF Else\IF Else\obj\Debug\IF Else.csproj.AssemblyReference.cache
+D:\All Program Code\IF Else\IF Else\obj\Debug\IF Else.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\IF Else\IF Else\obj\Debug\IF Else.csproj.CoreCompileInputs.cache
+D:\All Program Code\IF Else\IF Else\bin\Debug\IF Else.exe.config
+D:\All Program Code\IF Else\IF Else\bin\Debug\IF Else.exe
+D:\All Program Code\IF Else\IF Else\bin\Debug\IF Else.pdb
+D:\All Program Code\IF Else\IF Else\obj\Debug\IF Else.exe
+D:\All Program Code\IF Else\IF Else\obj\Debug\IF Else.pdb

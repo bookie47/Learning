@@ -1,0 +1,17 @@
+﻿<Window x:Class="BMI_Program.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BMI_Program"
+        mc:Ignorable="d"
+        Title="โปรแกรมคำนวน BMI" Height="565" Width="700">
+    <Grid HorizontalAlignment="Center" Height="468" VerticalAlignment="Top" Width="588" Margin="0,46,0,0">
+        <Button Content="คำนวน" HorizontalAlignment="Center" Height="53" Margin="0,372,0,0" VerticalAlignment="Top" Width="192" FontSize="24" Click="Button_Click"/>
+        <Label Content="น้ำหนัก (กิโลกรัม)" HorizontalAlignment="Center" Height="63" Margin="0,92,0,0" VerticalAlignment="Top" Width="252" FontSize="36"/>
+        <Label Content="ส่วนสูง (เซนติเมตร)" HorizontalAlignment="Center" Height="58" Margin="0,216,0,0" VerticalAlignment="Top" Width="278" FontSize="36"/>
+        <Label Content="โปรแกรมคำนวนค่าดัชนีมวลกาย BMI" HorizontalAlignment="Left" Height="64" VerticalAlignment="Top" Width="540" FontSize="36" Margin="38,-24,0,0"/>
+        <TextBox HorizontalAlignment="Center" Height="27" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" TextChanged="TextBox_TextChanged" DataContextChanged="TextBox_DataContextChanged" Margin="0,160,0,0"/>
+        <TextBox HorizontalAlignment="Center" Height="27" Margin="0,279,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" DataContextChanged="TextBox_DataContextChanged_1"/>
+    </Grid>
+</Window>

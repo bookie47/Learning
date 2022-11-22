@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "โจทย์ปัญหา หาผลรวมค่าเฉลี่ย", "โจทย์ปัญหา หาผลรวมค่าเฉลี่ย\โจทย์ปัญหา หาผลรวมค่าเฉลี่ย.csproj", "{BDEBBB7B-970C-4E24-A976-C995A8366EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEBBB7B-970C-4E24-A976-C995A8366EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEBBB7B-970C-4E24-A976-C995A8366EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEBBB7B-970C-4E24-A976-C995A8366EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEBBB7B-970C-4E24-A976-C995A8366EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {389F0226-3EEF-4AD3-AB2D-89F2253D24B1}
+	EndGlobalSection
+EndGlobal

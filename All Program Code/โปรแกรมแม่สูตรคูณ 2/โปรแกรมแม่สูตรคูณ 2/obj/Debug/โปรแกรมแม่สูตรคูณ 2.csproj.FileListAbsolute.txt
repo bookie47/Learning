@@ -1,0 +1,8 @@
+D:\All Program Code\โปรแกรมแม่สูตรคูณ 2\โปรแกรมแม่สูตรคูณ 2\obj\Debug\โปรแกรมแม่สูตรคูณ 2.csproj.AssemblyReference.cache
+D:\All Program Code\โปรแกรมแม่สูตรคูณ 2\โปรแกรมแม่สูตรคูณ 2\obj\Debug\โปรแกรมแม่สูตรคูณ 2.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\โปรแกรมแม่สูตรคูณ 2\โปรแกรมแม่สูตรคูณ 2\obj\Debug\โปรแกรมแม่สูตรคูณ 2.csproj.CoreCompileInputs.cache
+D:\All Program Code\โปรแกรมแม่สูตรคูณ 2\โปรแกรมแม่สูตรคูณ 2\bin\Debug\โปรแกรมแม่สูตรคูณ 2.exe.config
+D:\All Program Code\โปรแกรมแม่สูตรคูณ 2\โปรแกรมแม่สูตรคูณ 2\bin\Debug\โปรแกรมแม่สูตรคูณ 2.exe
+D:\All Program Code\โปรแกรมแม่สูตรคูณ 2\โปรแกรมแม่สูตรคูณ 2\bin\Debug\โปรแกรมแม่สูตรคูณ 2.pdb
+D:\All Program Code\โปรแกรมแม่สูตรคูณ 2\โปรแกรมแม่สูตรคูณ 2\obj\Debug\โปรแกรมแม่สูตรคูณ 2.exe
+D:\All Program Code\โปรแกรมแม่สูตรคูณ 2\โปรแกรมแม่สูตรคูณ 2\obj\Debug\โปรแกรมแม่สูตรคูณ 2.pdb

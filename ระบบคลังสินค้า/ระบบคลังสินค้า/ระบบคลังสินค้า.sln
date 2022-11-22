@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ระบบคลังสินค้า", "ระบบคลังสินค้า\ระบบคลังสินค้า.csproj", "{2D4D4768-19CF-4CA7-8BE7-154E51F4837B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4D4768-19CF-4CA7-8BE7-154E51F4837B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4D4768-19CF-4CA7-8BE7-154E51F4837B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4D4768-19CF-4CA7-8BE7-154E51F4837B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4D4768-19CF-4CA7-8BE7-154E51F4837B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45EED7A1-B615-41DF-81A5-8AEF72DC4893}
+	EndGlobalSection
+EndGlobal

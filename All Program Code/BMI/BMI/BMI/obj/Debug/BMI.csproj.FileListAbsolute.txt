@@ -1,0 +1,16 @@
+D:\BMI\BMI\BMI\bin\Debug\BMI.exe.config
+D:\BMI\BMI\BMI\bin\Debug\BMI.exe
+D:\BMI\BMI\BMI\bin\Debug\BMI.pdb
+D:\BMI\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+D:\BMI\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+D:\BMI\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\BMI\BMI\BMI\obj\Debug\BMI.exe
+D:\BMI\BMI\BMI\obj\Debug\BMI.pdb
+D:\All Program Code\BMI\BMI\BMI\bin\Debug\BMI.exe.config
+D:\All Program Code\BMI\BMI\BMI\bin\Debug\BMI.exe
+D:\All Program Code\BMI\BMI\BMI\bin\Debug\BMI.pdb
+D:\All Program Code\BMI\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+D:\All Program Code\BMI\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\BMI\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\All Program Code\BMI\BMI\BMI\obj\Debug\BMI.exe
+D:\All Program Code\BMI\BMI\BMI\obj\Debug\BMI.pdb

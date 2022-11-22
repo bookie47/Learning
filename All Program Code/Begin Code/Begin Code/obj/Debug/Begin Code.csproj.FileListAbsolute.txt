@@ -1,0 +1,16 @@
+D:\Begin Code\Begin Code\obj\Debug\Begin Code.csproj.AssemblyReference.cache
+D:\Begin Code\Begin Code\obj\Debug\Begin Code.csproj.SuggestedBindingRedirects.cache
+D:\Begin Code\Begin Code\obj\Debug\Begin Code.csproj.CoreCompileInputs.cache
+D:\Begin Code\Begin Code\bin\Debug\Begin Code.exe.config
+D:\Begin Code\Begin Code\bin\Debug\Begin Code.exe
+D:\Begin Code\Begin Code\bin\Debug\Begin Code.pdb
+D:\Begin Code\Begin Code\obj\Debug\Begin Code.exe
+D:\Begin Code\Begin Code\obj\Debug\Begin Code.pdb
+D:\All Program Code\Begin Code\Begin Code\bin\Debug\Begin Code.exe.config
+D:\All Program Code\Begin Code\Begin Code\bin\Debug\Begin Code.exe
+D:\All Program Code\Begin Code\Begin Code\bin\Debug\Begin Code.pdb
+D:\All Program Code\Begin Code\Begin Code\obj\Debug\Begin Code.csproj.AssemblyReference.cache
+D:\All Program Code\Begin Code\Begin Code\obj\Debug\Begin Code.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\Begin Code\Begin Code\obj\Debug\Begin Code.csproj.CoreCompileInputs.cache
+D:\All Program Code\Begin Code\Begin Code\obj\Debug\Begin Code.exe
+D:\All Program Code\Begin Code\Begin Code\obj\Debug\Begin Code.pdb

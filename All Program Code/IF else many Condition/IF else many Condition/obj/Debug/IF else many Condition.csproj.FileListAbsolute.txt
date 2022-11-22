@@ -1,0 +1,8 @@
+D:\All Program Code\IF else many Condition\IF else many Condition\obj\Debug\IF else many Condition.csproj.AssemblyReference.cache
+D:\All Program Code\IF else many Condition\IF else many Condition\obj\Debug\IF else many Condition.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\IF else many Condition\IF else many Condition\obj\Debug\IF else many Condition.csproj.CoreCompileInputs.cache
+D:\All Program Code\IF else many Condition\IF else many Condition\bin\Debug\IF else many Condition.exe.config
+D:\All Program Code\IF else many Condition\IF else many Condition\bin\Debug\IF else many Condition.exe
+D:\All Program Code\IF else many Condition\IF else many Condition\bin\Debug\IF else many Condition.pdb
+D:\All Program Code\IF else many Condition\IF else many Condition\obj\Debug\IF else many Condition.exe
+D:\All Program Code\IF else many Condition\IF else many Condition\obj\Debug\IF else many Condition.pdb

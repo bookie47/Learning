@@ -1,0 +1,8 @@
+D:\All Program Code\โปรแกรมตู้ ATM\โปรแกรมตู้ ATM\bin\Debug\โปรแกรมตู้ ATM.exe.config
+D:\All Program Code\โปรแกรมตู้ ATM\โปรแกรมตู้ ATM\bin\Debug\โปรแกรมตู้ ATM.exe
+D:\All Program Code\โปรแกรมตู้ ATM\โปรแกรมตู้ ATM\bin\Debug\โปรแกรมตู้ ATM.pdb
+D:\All Program Code\โปรแกรมตู้ ATM\โปรแกรมตู้ ATM\obj\Debug\โปรแกรมตู้ ATM.csproj.AssemblyReference.cache
+D:\All Program Code\โปรแกรมตู้ ATM\โปรแกรมตู้ ATM\obj\Debug\โปรแกรมตู้ ATM.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\โปรแกรมตู้ ATM\โปรแกรมตู้ ATM\obj\Debug\โปรแกรมตู้ ATM.csproj.CoreCompileInputs.cache
+D:\All Program Code\โปรแกรมตู้ ATM\โปรแกรมตู้ ATM\obj\Debug\โปรแกรมตู้ ATM.exe
+D:\All Program Code\โปรแกรมตู้ ATM\โปรแกรมตู้ ATM\obj\Debug\โปรแกรมตู้ ATM.pdb

@@ -1,0 +1,8 @@
+D:\All Program Code\Logic\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+D:\All Program Code\Logic\Logic\obj\Debug\Logic.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\Logic\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\All Program Code\Logic\Logic\bin\Debug\Logic.exe.config
+D:\All Program Code\Logic\Logic\bin\Debug\Logic.exe
+D:\All Program Code\Logic\Logic\bin\Debug\Logic.pdb
+D:\All Program Code\Logic\Logic\obj\Debug\Logic.exe
+D:\All Program Code\Logic\Logic\obj\Debug\Logic.pdb

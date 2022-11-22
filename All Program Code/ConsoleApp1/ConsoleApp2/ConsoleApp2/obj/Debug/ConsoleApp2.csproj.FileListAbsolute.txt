@@ -1,0 +1,8 @@
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\ConsoleApp1\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\ConsoleApp1\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\ConsoleApp1\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\ConsoleApp1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\ConsoleApp1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\ConsoleApp1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\ConsoleApp1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\ConsoleApp1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,8 @@
+D:\All Program Code\หาผลรวมไม่จำจัดจำนวน\หาผลรวมไม่จำจัดจำนวน\bin\Debug\หาผลรวมไม่จำจัดจำนวน.exe.config
+D:\All Program Code\หาผลรวมไม่จำจัดจำนวน\หาผลรวมไม่จำจัดจำนวน\bin\Debug\หาผลรวมไม่จำจัดจำนวน.exe
+D:\All Program Code\หาผลรวมไม่จำจัดจำนวน\หาผลรวมไม่จำจัดจำนวน\bin\Debug\หาผลรวมไม่จำจัดจำนวน.pdb
+D:\All Program Code\หาผลรวมไม่จำจัดจำนวน\หาผลรวมไม่จำจัดจำนวน\obj\Debug\หาผลรวมไม่จำจัดจำนวน.csproj.AssemblyReference.cache
+D:\All Program Code\หาผลรวมไม่จำจัดจำนวน\หาผลรวมไม่จำจัดจำนวน\obj\Debug\หาผลรวมไม่จำจัดจำนวน.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\หาผลรวมไม่จำจัดจำนวน\หาผลรวมไม่จำจัดจำนวน\obj\Debug\หาผลรวมไม่จำจัดจำนวน.csproj.CoreCompileInputs.cache
+D:\All Program Code\หาผลรวมไม่จำจัดจำนวน\หาผลรวมไม่จำจัดจำนวน\obj\Debug\หาผลรวมไม่จำจัดจำนวน.exe
+D:\All Program Code\หาผลรวมไม่จำจัดจำนวน\หาผลรวมไม่จำจัดจำนวน\obj\Debug\หาผลรวมไม่จำจัดจำนวน.pdb

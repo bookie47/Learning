@@ -1,0 +1,8 @@
+D:\All Program Code\Switch Case\Switch Case\bin\Debug\Switch Case.exe.config
+D:\All Program Code\Switch Case\Switch Case\bin\Debug\Switch Case.exe
+D:\All Program Code\Switch Case\Switch Case\bin\Debug\Switch Case.pdb
+D:\All Program Code\Switch Case\Switch Case\obj\Debug\Switch Case.csproj.AssemblyReference.cache
+D:\All Program Code\Switch Case\Switch Case\obj\Debug\Switch Case.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\Switch Case\Switch Case\obj\Debug\Switch Case.csproj.CoreCompileInputs.cache
+D:\All Program Code\Switch Case\Switch Case\obj\Debug\Switch Case.exe
+D:\All Program Code\Switch Case\Switch Case\obj\Debug\Switch Case.pdb

@@ -1,0 +1,8 @@
+D:\All Program Code\หาผลลรวมค่าเฉลี่ย\หาผลลรวมค่าเฉลี่ย\bin\Debug\หาผลลรวมค่าเฉลี่ย.exe.config
+D:\All Program Code\หาผลลรวมค่าเฉลี่ย\หาผลลรวมค่าเฉลี่ย\bin\Debug\หาผลลรวมค่าเฉลี่ย.exe
+D:\All Program Code\หาผลลรวมค่าเฉลี่ย\หาผลลรวมค่าเฉลี่ย\bin\Debug\หาผลลรวมค่าเฉลี่ย.pdb
+D:\All Program Code\หาผลลรวมค่าเฉลี่ย\หาผลลรวมค่าเฉลี่ย\obj\Debug\หาผลลรวมค่าเฉลี่ย.csproj.AssemblyReference.cache
+D:\All Program Code\หาผลลรวมค่าเฉลี่ย\หาผลลรวมค่าเฉลี่ย\obj\Debug\หาผลลรวมค่าเฉลี่ย.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\หาผลลรวมค่าเฉลี่ย\หาผลลรวมค่าเฉลี่ย\obj\Debug\หาผลลรวมค่าเฉลี่ย.csproj.CoreCompileInputs.cache
+D:\All Program Code\หาผลลรวมค่าเฉลี่ย\หาผลลรวมค่าเฉลี่ย\obj\Debug\หาผลลรวมค่าเฉลี่ย.exe
+D:\All Program Code\หาผลลรวมค่าเฉลี่ย\หาผลลรวมค่าเฉลี่ย\obj\Debug\หาผลลรวมค่าเฉลี่ย.pdb

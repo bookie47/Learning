@@ -1,0 +1,16 @@
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Break Continue\Break Continue\obj\Debug\Break Continue.csproj.AssemblyReference.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Break Continue\Break Continue\obj\Debug\Break Continue.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Break Continue\Break Continue\obj\Debug\Break Continue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Break Continue\Break Continue\bin\Debug\Break Continue.exe.config
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Break Continue\Break Continue\bin\Debug\Break Continue.exe
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Break Continue\Break Continue\bin\Debug\Break Continue.pdb
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Break Continue\Break Continue\obj\Debug\Break Continue.exe
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Break Continue\Break Continue\obj\Debug\Break Continue.pdb
+D:\All Program Code\Break Continue\Break Continue\bin\Debug\Break Continue.exe.config
+D:\All Program Code\Break Continue\Break Continue\bin\Debug\Break Continue.exe
+D:\All Program Code\Break Continue\Break Continue\bin\Debug\Break Continue.pdb
+D:\All Program Code\Break Continue\Break Continue\obj\Debug\Break Continue.csproj.AssemblyReference.cache
+D:\All Program Code\Break Continue\Break Continue\obj\Debug\Break Continue.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\Break Continue\Break Continue\obj\Debug\Break Continue.csproj.CoreCompileInputs.cache
+D:\All Program Code\Break Continue\Break Continue\obj\Debug\Break Continue.exe
+D:\All Program Code\Break Continue\Break Continue\obj\Debug\Break Continue.pdb

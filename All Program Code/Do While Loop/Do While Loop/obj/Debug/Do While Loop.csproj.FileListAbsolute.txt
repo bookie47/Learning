@@ -1,0 +1,8 @@
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Do While Loop\Do While Loop\bin\Debug\Do While Loop.exe.config
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Do While Loop\Do While Loop\bin\Debug\Do While Loop.exe
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Do While Loop\Do While Loop\bin\Debug\Do While Loop.pdb
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Do While Loop\Do While Loop\obj\Debug\Do While Loop.csproj.AssemblyReference.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Do While Loop\Do While Loop\obj\Debug\Do While Loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Do While Loop\Do While Loop\obj\Debug\Do While Loop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Do While Loop\Do While Loop\obj\Debug\Do While Loop.exe
+C:\Users\ASUS-TUFGAMINGF15\OneDrive - 香港中文大学（深圳)\Desktop\Do While Loop\Do While Loop\obj\Debug\Do While Loop.pdb

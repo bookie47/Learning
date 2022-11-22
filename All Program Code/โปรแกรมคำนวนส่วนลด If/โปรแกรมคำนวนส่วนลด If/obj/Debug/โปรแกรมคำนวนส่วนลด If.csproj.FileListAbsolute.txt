@@ -1,0 +1,8 @@
+D:\All Program Code\โปรแกรมคำนวนส่วนลด If\โปรแกรมคำนวนส่วนลด If\obj\Debug\โปรแกรมคำนวนส่วนลด If.csproj.AssemblyReference.cache
+D:\All Program Code\โปรแกรมคำนวนส่วนลด If\โปรแกรมคำนวนส่วนลด If\obj\Debug\โปรแกรมคำนวนส่วนลด If.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\โปรแกรมคำนวนส่วนลด If\โปรแกรมคำนวนส่วนลด If\obj\Debug\โปรแกรมคำนวนส่วนลด If.csproj.CoreCompileInputs.cache
+D:\All Program Code\โปรแกรมคำนวนส่วนลด If\โปรแกรมคำนวนส่วนลด If\bin\Debug\โปรแกรมคำนวนส่วนลด If.exe.config
+D:\All Program Code\โปรแกรมคำนวนส่วนลด If\โปรแกรมคำนวนส่วนลด If\bin\Debug\โปรแกรมคำนวนส่วนลด If.exe
+D:\All Program Code\โปรแกรมคำนวนส่วนลด If\โปรแกรมคำนวนส่วนลด If\bin\Debug\โปรแกรมคำนวนส่วนลด If.pdb
+D:\All Program Code\โปรแกรมคำนวนส่วนลด If\โปรแกรมคำนวนส่วนลด If\obj\Debug\โปรแกรมคำนวนส่วนลด If.exe
+D:\All Program Code\โปรแกรมคำนวนส่วนลด If\โปรแกรมคำนวนส่วนลด If\obj\Debug\โปรแกรมคำนวนส่วนลด If.pdb

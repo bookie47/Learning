@@ -1,0 +1,8 @@
+D:\All Program Code\ขั้นบันได\ขั้นบันได\bin\Debug\ขั้นบันได.exe.config
+D:\All Program Code\ขั้นบันได\ขั้นบันได\bin\Debug\ขั้นบันได.exe
+D:\All Program Code\ขั้นบันได\ขั้นบันได\bin\Debug\ขั้นบันได.pdb
+D:\All Program Code\ขั้นบันได\ขั้นบันได\obj\Debug\ขั้นบันได.csproj.AssemblyReference.cache
+D:\All Program Code\ขั้นบันได\ขั้นบันได\obj\Debug\ขั้นบันได.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\ขั้นบันได\ขั้นบันได\obj\Debug\ขั้นบันได.csproj.CoreCompileInputs.cache
+D:\All Program Code\ขั้นบันได\ขั้นบันได\obj\Debug\ขั้นบันได.exe
+D:\All Program Code\ขั้นบันได\ขั้นบันได\obj\Debug\ขั้นบันได.pdb

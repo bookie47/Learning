@@ -1,0 +1,8 @@
+D:\All Program Code\หาตัวเลขต่ำสุด สูงสุด\หาตัวเลขต่ำสุด สูงสุด\bin\Debug\หาตัวเลขต่ำสุด สูงสุด.exe.config
+D:\All Program Code\หาตัวเลขต่ำสุด สูงสุด\หาตัวเลขต่ำสุด สูงสุด\bin\Debug\หาตัวเลขต่ำสุด สูงสุด.exe
+D:\All Program Code\หาตัวเลขต่ำสุด สูงสุด\หาตัวเลขต่ำสุด สูงสุด\bin\Debug\หาตัวเลขต่ำสุด สูงสุด.pdb
+D:\All Program Code\หาตัวเลขต่ำสุด สูงสุด\หาตัวเลขต่ำสุด สูงสุด\obj\Debug\หาตัวเลขต่ำสุด สูงสุด.csproj.AssemblyReference.cache
+D:\All Program Code\หาตัวเลขต่ำสุด สูงสุด\หาตัวเลขต่ำสุด สูงสุด\obj\Debug\หาตัวเลขต่ำสุด สูงสุด.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\หาตัวเลขต่ำสุด สูงสุด\หาตัวเลขต่ำสุด สูงสุด\obj\Debug\หาตัวเลขต่ำสุด สูงสุด.csproj.CoreCompileInputs.cache
+D:\All Program Code\หาตัวเลขต่ำสุด สูงสุด\หาตัวเลขต่ำสุด สูงสุด\obj\Debug\หาตัวเลขต่ำสุด สูงสุด.exe
+D:\All Program Code\หาตัวเลขต่ำสุด สูงสุด\หาตัวเลขต่ำสุด สูงสุด\obj\Debug\หาตัวเลขต่ำสุด สูงสุด.pdb

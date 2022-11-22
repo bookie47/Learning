@@ -1,0 +1,8 @@
+D:\All Program Code\โปรแกรมสั่งเมนูอาหาร\โปรแกรมสั่งเมนูอาหาร\obj\Debug\โปรแกรมสั่งเมนูอาหาร.csproj.AssemblyReference.cache
+D:\All Program Code\โปรแกรมสั่งเมนูอาหาร\โปรแกรมสั่งเมนูอาหาร\obj\Debug\โปรแกรมสั่งเมนูอาหาร.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\โปรแกรมสั่งเมนูอาหาร\โปรแกรมสั่งเมนูอาหาร\obj\Debug\โปรแกรมสั่งเมนูอาหาร.csproj.CoreCompileInputs.cache
+D:\All Program Code\โปรแกรมสั่งเมนูอาหาร\โปรแกรมสั่งเมนูอาหาร\bin\Debug\โปรแกรมสั่งเมนูอาหาร.exe.config
+D:\All Program Code\โปรแกรมสั่งเมนูอาหาร\โปรแกรมสั่งเมนูอาหาร\bin\Debug\โปรแกรมสั่งเมนูอาหาร.exe
+D:\All Program Code\โปรแกรมสั่งเมนูอาหาร\โปรแกรมสั่งเมนูอาหาร\bin\Debug\โปรแกรมสั่งเมนูอาหาร.pdb
+D:\All Program Code\โปรแกรมสั่งเมนูอาหาร\โปรแกรมสั่งเมนูอาหาร\obj\Debug\โปรแกรมสั่งเมนูอาหาร.exe
+D:\All Program Code\โปรแกรมสั่งเมนูอาหาร\โปรแกรมสั่งเมนูอาหาร\obj\Debug\โปรแกรมสั่งเมนูอาหาร.pdb

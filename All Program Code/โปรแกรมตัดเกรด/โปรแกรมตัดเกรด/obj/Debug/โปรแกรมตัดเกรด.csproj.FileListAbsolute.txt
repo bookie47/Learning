@@ -1,0 +1,8 @@
+D:\All Program Code\โปรแกรมตัดเกรด\โปรแกรมตัดเกรด\obj\Debug\โปรแกรมตัดเกรด.csproj.AssemblyReference.cache
+D:\All Program Code\โปรแกรมตัดเกรด\โปรแกรมตัดเกรด\obj\Debug\โปรแกรมตัดเกรด.csproj.SuggestedBindingRedirects.cache
+D:\All Program Code\โปรแกรมตัดเกรด\โปรแกรมตัดเกรด\obj\Debug\โปรแกรมตัดเกรด.csproj.CoreCompileInputs.cache
+D:\All Program Code\โปรแกรมตัดเกรด\โปรแกรมตัดเกรด\bin\Debug\โปรแกรมตัดเกรด.exe.config
+D:\All Program Code\โปรแกรมตัดเกรด\โปรแกรมตัดเกรด\bin\Debug\โปรแกรมตัดเกรด.exe
+D:\All Program Code\โปรแกรมตัดเกรด\โปรแกรมตัดเกรด\bin\Debug\โปรแกรมตัดเกรด.pdb
+D:\All Program Code\โปรแกรมตัดเกรด\โปรแกรมตัดเกรด\obj\Debug\โปรแกรมตัดเกรด.exe
+D:\All Program Code\โปรแกรมตัดเกรด\โปรแกรมตัดเกรด\obj\Debug\โปรแกรมตัดเกรด.pdb
